@@ -1,8 +1,8 @@
 {
   "base": {
-    "size": {
+    "size": {  
       "2": {
-        "$value": "2px",
+        "$value": { "value": "2", "unit": "px" },
         "$type": "dimension",
         "$extensions": {
           "org.primer.figma": {
